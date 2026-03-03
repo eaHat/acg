@@ -1,0 +1,979 @@
+CustomerID,Age,Tenure months,Contract type,Internet service,Monthly charges,Total charges,Payment method,Support calls last month,Churn
+20199,49.0,64,two-year,None,21.16,1346.46,Direct debit,1,no
+20543,73.0,11,one-year,DSL,115.78,1297.71,Direct debit,0,no
+20174,76.0,12,one-year,None,36.83,440.36,Credit card,0,no
+20928,68.0,53,two-year,Fiber optic,109.67,5831.9,Direct debit,2,no
+20066,41.0,39,one-year,Fiber optic,114.47,4470.65,Direct debit,1,no
+20495,61.0,11,month-to-month,DSL,65.97,724.08,Direct debit,0,no
+20751,80.0,41,month-to-month,None,36.66,1497.68,Bank transfer,5,yes
+20548,,14,month-to-month,None,37.28,526.38,Direct debit,2,no
+20601,55.0,1,month-to-month,None,28.09,29.36,Credit card,2,yes
+20158,,58,month-to-month,DSL,55.3,3211.13,Credit card,1,no
+20878,74.0,71,month-to-month,DSL,73.57,5220.42,Direct debit,1,yes
+20067,43.0,11,two-year,Fiber optic,110.35,1217.76,Direct debit,0,no
+20531,80.0,23,two-year,Fiber optic,53.57,,Credit card,3,no
+20231,39.0,51,month-to-month,Fiber optic,61.79,3150.47,,3,yes
+20745,61.0,30,month-to-month,Fiber optic,115.19,3446.12,Direct debit,3,yes
+20408,81.0,16,one-year,Fiber optic,53.46,879.49,Credit card,1,no
+20076,25.0,63,month-to-month,Fiber optic,62.35,3948.12,Credit card,0,no
+20578,51.0,9,month-to-month,DSL,52.68,491.01,Bank transfer,2,yes
+20859,28.0,61,month-to-month,Fiber optic,53.96,3317.8,Direct debit,2,no
+20294,37.0,5,month-to-month,Fiber optic,97.95,519.29,Direct debit,1,yes
+20088,51.0,10,month-to-month,DSL,,673.02,Bank transfer,3,no
+20096,82.0,68,month-to-month,Fiber optic,92.88,6333.82,Direct debit,1,yes
+20851,22.0,21,one-year,DSL,83.55,1775.58,Direct debit,2,no
+20306,80.0,26,month-to-month,DSL,100.93,2634.76,Direct debit,1,no
+20513,71.0,58,one-year,DSL,109.69,6386.68,Direct debit,1,no
+20611,51.0,68,month-to-month,Fiber optic,63.94,4343.01,Direct debit,2,yes
+20761,67.0,12,one-year,None,35.93,439.64,Bank transfer,3,no
+20848,79.0,34,month-to-month,None,33.29,1128.87,Direct debit,4,yes
+20357,79.0,35,month-to-month,DSL,78.28,2747.21,Credit card,1,no
+20286,42.0,44,one-year,Fiber optic,116.31,5139.86,Direct debit,2,no
+20023,79.0,0,one-year,DSL,96.04,22.95,Direct debit,0,no
+20030,20.0,11,two-year,DSL,111.47,1256.13,Direct debit,3,no
+20447,52.0,7,two-year,DSL,69.44,492.4,Direct debit,2,no
+20244,65.0,53,month-to-month,,108.32,5749.64,Credit card,3,yes
+20532,34.0,49,month-to-month,Fiber optic,64.15,3144.32,Direct debit,4,yes
+20516,74.0,34,month-to-month,Fiber optic,48.07,1656.98,Direct debit,2,yes
+20464,55.0,21,month-to-month,None,22.2,483.77,Direct debit,2,no
+20872,32.0,4,month-to-month,Fiber optic,84.19,347.79,,0,yes
+20940,,7,one-year,Fiber optic,87.7,630.17,Direct debit,4,no
+20439,74.0,17,month-to-month,DSL,68.21,1186.57,Direct debit,3,yes
+20299,32.0,47,month-to-month,DSL,80.83,3797.54,Direct debit,7,yes
+20298,31.0,58,month-to-month,DSL,91.52,5319.03,Credit card,0,no
+20275,44.0,71,month-to-month,DSL,59.57,4223.29,Direct debit,0,yes
+20213,83.0,72,one-year,Fiber optic,74.9,5401.56,Credit card,0,no
+20638,18.0,33,two-year,DSL,61.14,2026.47,Direct debit,2,no
+20559,72.0,61,month-to-month,Fiber optic,83.75,5136.13,Credit card,4,yes
+20717,79.0,46,month-to-month,DSL,91.13,4213.2,Bank transfer,3,yes
+20120,59.0,18,month-to-month,,55.44,988.92,Credit card,3,yes
+20590,31.0,27,one-year,Fiber optic,100.96,,Credit card,1,no
+20342,51.0,19,month-to-month,None,35.12,668.37,Credit card,1,yes
+20887,51.0,1,month-to-month,None,32.48,39.55,Credit card,3,yes
+20596,67.0,55,month-to-month,Fiber optic,65.37,3612.68,,3,yes
+20039,26.0,29,month-to-month,DSL,99.46,2891.77,Direct debit,2,yes
+20793,,14,month-to-month,None,26.36,370.79,Credit card,1,yes
+20309,75.0,6,one-year,DSL,114.31,681.37,Direct debit,1,no
+20312,69.0,57,month-to-month,,95.36,5431.26,Direct debit,0,yes
+20756,55.0,53,month-to-month,Fiber optic,113.16,6027.11,Direct debit,6,yes
+20059,79.0,16,month-to-month,,112.74,1812.4,,5,yes
+20394,63.0,14,month-to-month,DSL,70.44,1009.43,Credit card,1,no
+20290,24.0,55,month-to-month,Fiber optic,100.1,5504.97,Direct debit,1,no
+20277,34.0,47,month-to-month,Fiber optic,107.24,5067.7,Direct debit,3,yes
+20209,53.0,24,month-to-month,DSL,87.18,2104.15,Bank transfer,4,yes
+20405,53.0,71,two-year,DSL,81.02,5754.52,Bank transfer,4,no
+20507,64.0,43,two-year,Fiber optic,50.23,2151.14,Direct debit,1,no
+20585,22.0,7,month-to-month,Fiber optic,45.79,,Credit card,2,no
+20433,29.0,1,month-to-month,DSL,109.27,139.11,Bank transfer,2,yes
+20411,41.0,26,one-year,DSL,47.02,1217.53,Credit card,2,no
+20070,46.0,9,month-to-month,DSL,,1037.75,Bank transfer,0,yes
+20136,26.0,11,one-year,Fiber optic,61.61,688.73,Credit card,4,no
+20824,73.0,69,month-to-month,None,19.24,1330.18,Direct debit,0,no
+20346,78.0,11,one-year,,62.37,700.95,Credit card,2,no
+20713,83.0,45,month-to-month,DSL,75.13,3381.57,Direct debit,2,yes
+20723,62.0,67,two-year,Fiber optic,45.72,3060.3,Bank transfer,1,no
+20584,71.0,19,month-to-month,Fiber optic,97.12,1864.52,Bank transfer,2,yes
+20462,46.0,32,two-year,None,27.79,,Credit card,1,no
+20063,,56,month-to-month,Fiber optic,90.0,5069.93,,3,yes
+20808,44.0,41,month-to-month,Fiber optic,49.43,2052.18,,3,yes
+20893,41.0,22,one-year,DSL,81.27,1800.4,Credit card,3,no
+20589,40.0,63,month-to-month,None,25.65,1617.39,Direct debit,4,no
+20218,50.0,58,month-to-month,None,34.85,2031.89,Direct debit,5,yes
+20449,26.0,50,month-to-month,DSL,86.66,4349.0,Bank transfer,2,no
+20741,27.0,3,two-year,Fiber optic,48.53,155.6,Bank transfer,2,no
+20365,69.0,50,two-year,Fiber optic,111.77,5617.79,Bank transfer,5,no
+20485,18.0,3,two-year,None,18.05,46.13,Credit card,2,no
+20890,76.0,66,one-year,Fiber optic,95.79,6337.49,Credit card,5,no
+20468,,14,month-to-month,DSL,100.41,1404.42,Bank transfer,1,no
+20755,,6,two-year,Fiber optic,83.22,516.24,Direct debit,3,no
+20430,45.0,47,month-to-month,Fiber optic,74.08,3488.04,Direct debit,1,yes
+20086,24.0,10,month-to-month,Fiber optic,115.77,1185.58,Direct debit,3,yes
+20331,80.0,63,two-year,Fiber optic,,4626.1,Credit card,5,no
+20626,44.0,43,month-to-month,DSL,75.23,3248.42,Direct debit,4,yes
+20334,72.0,29,month-to-month,Fiber optic,59.95,1761.09,Bank transfer,4,yes
+20107,80.0,39,month-to-month,Fiber optic,,3455.02,Bank transfer,1,yes
+20210,55.0,47,month-to-month,Fiber optic,65.96,3117.48,Credit card,1,no
+20260,80.0,10,one-year,DSL,60.92,636.82,Credit card,1,no
+20802,68.0,1,two-year,None,32.27,44.89,Credit card,2,no
+20352,33.0,49,month-to-month,None,22.0,1081.74,Direct debit,0,no
+20215,52.0,48,month-to-month,None,33.63,1636.97,Credit card,1,no
+20529,81.0,19,month-to-month,DSL,79.26,1532.05,Direct debit,3,yes
+20655,25.0,52,two-year,Fiber optic,93.03,4867.38,Direct debit,0,no
+20678,42.0,70,month-to-month,Fiber optic,104.67,7337.21,Bank transfer,3,yes
+20362,40.0,32,one-year,None,34.54,1101.1,Direct debit,5,no
+20538,23.0,35,month-to-month,DSL,75.17,2622.73,Bank transfer,3,yes
+20926,83.0,65,one-year,Fiber optic,78.31,5099.87,Direct debit,1,no
+20798,,9,one-year,None,33.92,323.41,Direct debit,1,no
+20518,33.0,53,month-to-month,Fiber optic,91.76,4865.16,Credit card,1,no
+20055,80.0,41,month-to-month,Fiber optic,94.33,3894.82,Credit card,2,yes
+20265,42.0,66,two-year,Fiber optic,105.22,6969.55,Credit card,7,no
+20296,25.0,39,month-to-month,None,38.58,1497.09,Bank transfer,0,no
+20787,68.0,48,month-to-month,Fiber optic,91.89,4412.84,Bank transfer,4,yes
+20072,62.0,16,one-year,DSL,109.0,1754.57,Bank transfer,1,no
+20237,44.0,53,month-to-month,DSL,85.28,4527.08,Direct debit,2,no
+20044,25.0,65,one-year,Fiber optic,92.71,6041.01,Direct debit,3,no
+20902,,59,month-to-month,DSL,45.55,2703.86,Credit card,3,yes
+20210,55.0,47,month-to-month,Fiber optic,65.96,3117.48,Credit card,1,no
+20737,20.0,29,month-to-month,Fiber optic,117.11,3412.82,Bank transfer,1,yes
+20847,,1,month-to-month,None,21.82,51.79,Bank transfer,2,no
+20929,80.0,32,one-year,Fiber optic,106.21,3398.81,Direct debit,1,no
+20758,66.0,43,one-year,DSL,81.56,3516.0,Bank transfer,1,no
+20922,36.0,34,two-year,None,35.21,1191.26,Credit card,3,no
+20292,53.0,39,two-year,Fiber optic,108.97,4270.63,Direct debit,3,no
+20722,68.0,14,month-to-month,None,34.65,476.99,Credit card,2,yes
+20665,73.0,40,month-to-month,Fiber optic,66.88,2687.86,Credit card,1,yes
+20333,75.0,69,month-to-month,Fiber optic,75.98,5268.26,Direct debit,0,no
+20664,76.0,32,two-year,Fiber optic,63.19,2020.27,Credit card,1,no
+20631,36.0,49,month-to-month,Fiber optic,59.02,2894.52,Credit card,2,yes
+20310,75.0,4,one-year,Fiber optic,106.52,418.25,Credit card,2,no
+20370,21.0,3,month-to-month,Fiber optic,88.42,258.03,Direct debit,1,no
+20707,20.0,36,month-to-month,None,22.67,833.39,Direct debit,1,no
+20254,23.0,2,month-to-month,DSL,57.89,125.35,Credit card,1,no
+20920,33.0,65,month-to-month,Fiber optic,92.67,6027.0,Direct debit,2,yes
+20628,67.0,22,two-year,Fiber optic,91.59,2013.01,Credit card,0,no
+20280,60.0,36,two-year,Fiber optic,94.75,3407.96,Direct debit,2,no
+20060,31.0,36,month-to-month,Fiber optic,65.06,2363.72,Credit card,3,no
+20528,58.0,3,one-year,None,17.04,79.55,Direct debit,3,no
+20420,34.0,59,two-year,Fiber optic,85.17,5053.52,,0,no
+20833,44.0,43,one-year,DSL,83.46,,Bank transfer,4,no
+20139,68.0,25,one-year,Fiber optic,84.57,2144.18,Direct debit,1,no
+20581,67.0,9,two-year,,100.76,,,2,no
+20708,48.0,43,month-to-month,Fiber optic,61.55,2672.2,Credit card,2,yes
+20281,65.0,59,one-year,Fiber optic,53.87,3170.18,Credit card,1,no
+20715,23.0,20,month-to-month,,35.04,713.43,,1,yes
+20929,80.0,32,one-year,Fiber optic,106.21,3398.81,Direct debit,1,no
+20783,57.0,35,month-to-month,Fiber optic,74.47,2602.11,Credit card,3,yes
+20110,40.0,60,month-to-month,DSL,104.48,6278.84,Direct debit,0,yes
+20442,59.0,31,two-year,Fiber optic,82.29,2569.09,Direct debit,1,no
+20819,55.0,35,one-year,DSL,47.17,1655.35,Credit card,1,no
+20319,77.0,29,two-year,Fiber optic,76.95,2224.08,Bank transfer,5,no
+20617,72.0,42,two-year,Fiber optic,118.94,5006.6,Direct debit,3,no
+20440,56.0,63,one-year,Fiber optic,115.25,7265.39,Bank transfer,2,no
+20198,54.0,4,month-to-month,None,29.03,142.37,Credit card,3,no
+20381,78.0,66,month-to-month,None,21.48,1427.98,Bank transfer,3,no
+20696,76.0,25,month-to-month,DSL,115.42,2913.7,Credit card,1,yes
+20735,54.0,15,one-year,Fiber optic,84.12,1268.58,Credit card,0,no
+20903,66.0,11,one-year,DSL,83.19,926.0,Direct debit,1,no
+20525,77.0,23,month-to-month,Fiber optic,79.32,1818.44,Credit card,3,yes
+20137,79.0,14,month-to-month,Fiber optic,49.21,683.32,Credit card,1,no
+20486,20.0,5,month-to-month,DSL,54.31,285.52,Direct debit,4,no
+20344,18.0,63,one-year,Fiber optic,60.53,3817.2,Bank transfer,1,no
+20184,18.0,12,two-year,Fiber optic,63.16,756.81,Direct debit,0,no
+20799,23.0,72,one-year,Fiber optic,110.04,,Bank transfer,1,no
+20809,53.0,38,month-to-month,Fiber optic,65.37,2493.41,Bank transfer,1,no
+20544,47.0,2,month-to-month,DSL,63.82,140.89,Direct debit,1,no
+20168,41.0,39,two-year,Fiber optic,73.23,2883.98,Direct debit,3,no
+20350,,64,month-to-month,DSL,105.92,6797.57,Credit card,5,yes
+20737,20.0,29,month-to-month,Fiber optic,117.11,3412.82,Bank transfer,1,yes
+20328,47.0,26,month-to-month,DSL,59.49,1538.12,Direct debit,0,no
+20078,28.0,53,month-to-month,DSL,67.95,3599.86,Credit card,4,yes
+20029,81.0,66,one-year,Fiber optic,73.05,4828.58,Credit card,4,no
+20261,49.0,55,one-year,DSL,53.67,2979.96,Credit card,4,no
+20753,26.0,35,two-year,Fiber optic,119.0,4156.49,Direct debit,1,no
+20863,38.0,11,month-to-month,DSL,55.42,631.65,Bank transfer,2,yes
+20630,68.0,51,two-year,Fiber optic,118.27,6029.57,Direct debit,0,no
+20165,,2,month-to-month,,30.81,83.99,Direct debit,1,yes
+20689,58.0,43,month-to-month,Fiber optic,83.59,3592.33,Direct debit,1,no
+20436,70.0,63,month-to-month,,34.04,2159.93,Direct debit,3,no
+20065,70.0,5,two-year,None,34.9,173.42,Credit card,3,no
+20141,41.0,46,month-to-month,Fiber optic,57.56,2649.12,Direct debit,2,no
+20684,35.0,18,month-to-month,DSL,54.83,991.34,Credit card,1,no
+20767,81.0,14,two-year,DSL,69.32,998.12,Direct debit,0,no
+20710,53.0,42,month-to-month,Fiber optic,49.67,2085.88,Direct debit,2,no
+20673,45.0,69,month-to-month,Fiber optic,109.92,7574.88,Direct debit,0,yes
+20759,79.0,44,month-to-month,,34.69,1537.15,Bank transfer,0,no
+20765,18.0,25,two-year,DSL,64.7,1621.14,Credit card,1,no
+20404,38.0,26,month-to-month,Fiber optic,91.44,2374.71,Direct debit,3,yes
+20650,,32,month-to-month,DSL,48.52,1571.63,Bank transfer,2,yes
+20797,56.0,10,month-to-month,None,34.91,339.81,Credit card,0,yes
+20049,21.0,25,month-to-month,None,32.7,822.97,Bank transfer,1,yes
+20712,23.0,69,month-to-month,Fiber optic,68.35,4710.34,Direct debit,3,yes
+20363,27.0,5,month-to-month,Fiber optic,89.95,474.87,Credit card,1,yes
+20798,,9,one-year,None,33.92,323.41,Direct debit,1,no
+20361,50.0,10,two-year,Fiber optic,99.67,1016.56,Bank transfer,1,no
+20883,,13,one-year,None,35.69,474.3,Direct debit,0,no
+20525,77.0,23,month-to-month,Fiber optic,79.32,1818.44,Credit card,3,yes
+20558,38.0,40,month-to-month,Fiber optic,87.35,3507.52,Credit card,5,yes
+20363,27.0,5,month-to-month,Fiber optic,89.95,474.87,Credit card,1,yes
+20784,56.0,54,one-year,Fiber optic,64.4,3471.7,Direct debit,3,no
+20909,18.0,29,month-to-month,Fiber optic,67.75,,,3,no
+20033,38.0,36,month-to-month,Fiber optic,69.64,2520.44,Credit card,1,yes
+20031,,19,one-year,None,19.99,378.62,Bank transfer,2,no
+20731,18.0,28,one-year,DSL,78.77,2210.91,Direct debit,1,no
+20192,33.0,56,one-year,DSL,62.45,3506.94,Direct debit,1,no
+20314,,22,month-to-month,Fiber optic,91.44,2030.78,Direct debit,1,no
+20583,82.0,4,month-to-month,DSL,109.55,439.24,Bank transfer,0,yes
+20235,71.0,19,month-to-month,,105.59,2000.32,Direct debit,3,yes
+20305,75.0,62,month-to-month,DSL,84.83,5266.22,Bank transfer,4,yes
+20697,50.0,71,month-to-month,Fiber optic,67.12,4779.96,Credit card,0,yes
+20499,78.0,18,month-to-month,Fiber optic,64.31,1181.98,Bank transfer,3,no
+20109,21.0,0,month-to-month,Fiber optic,80.79,19.47,Direct debit,0,yes
+20616,40.0,52,one-year,DSL,70.64,3692.43,Bank transfer,3,no
+20077,80.0,1,two-year,Fiber optic,63.27,76.8,Bank transfer,1,no
+20927,55.0,24,two-year,Fiber optic,55.28,1323.95,Direct debit,4,no
+20881,52.0,15,month-to-month,DSL,81.91,,Credit card,1,yes
+20082,50.0,35,month-to-month,DSL,78.41,2767.35,Bank transfer,1,yes
+20215,52.0,48,month-to-month,None,33.63,1636.97,Credit card,1,no
+20327,30.0,45,one-year,None,22.61,1019.44,Credit card,5,no
+20853,48.0,57,month-to-month,Fiber optic,107.81,6153.07,Credit card,1,yes
+20377,,1,one-year,DSL,81.55,99.6,Credit card,3,no
+20572,79.0,35,month-to-month,Fiber optic,86.05,3010.17,Direct debit,6,yes
+20371,33.0,12,one-year,DSL,49.09,,Direct debit,1,no
+20002,78.0,33,month-to-month,DSL,94.69,,Direct debit,0,yes
+20101,31.0,61,two-year,None,30.49,1853.99,Credit card,0,no
+20823,69.0,7,one-year,,83.54,601.53,Direct debit,1,no
+20456,59.0,32,month-to-month,,65.56,2093.28,Credit card,2,no
+20259,77.0,13,two-year,DSL,81.21,1063.7,Direct debit,1,no
+20208,41.0,36,month-to-month,Fiber optic,69.05,2484.72,Credit card,2,no
+20266,71.0,24,month-to-month,Fiber optic,118.56,2846.3,Direct debit,0,yes
+20005,20.0,45,month-to-month,Fiber optic,106.21,4771.56,Credit card,1,yes
+20054,71.0,17,month-to-month,DSL,55.74,960.47,Direct debit,4,yes
+20675,74.0,22,one-year,Fiber optic,95.55,2114.97,Direct debit,2,no
+20852,54.0,43,month-to-month,Fiber optic,96.76,4168.55,Credit card,0,no
+20380,50.0,26,month-to-month,Fiber optic,91.82,2405.4,Credit card,1,yes
+20493,23.0,13,month-to-month,None,15.7,199.12,Bank transfer,2,no
+20097,64.0,55,month-to-month,None,29.93,1648.43,Direct debit,1,yes
+20593,55.0,36,month-to-month,DSL,,3084.14,Direct debit,1,no
+20204,37.0,29,one-year,Fiber optic,47.38,1371.89,,2,no
+20814,72.0,18,one-year,Fiber optic,55.0,1002.48,Credit card,2,no
+20657,64.0,68,two-year,Fiber optic,100.57,6848.5,Direct debit,2,no
+20938,51.0,24,month-to-month,None,34.32,842.23,Credit card,5,yes
+20523,25.0,57,month-to-month,None,35.94,2041.74,Credit card,5,yes
+20921,57.0,1,month-to-month,Fiber optic,119.47,132.94,Credit card,1,no
+20849,77.0,29,one-year,DSL,89.97,,,6,yes
+20025,64.0,68,month-to-month,None,30.01,2065.33,Direct debit,1,yes
+20084,58.0,28,month-to-month,Fiber optic,96.2,2702.14,Direct debit,3,yes
+20010,55.0,13,month-to-month,Fiber optic,92.89,,Bank transfer,1,yes
+20477,56.0,31,month-to-month,None,26.6,825.54,Bank transfer,1,no
+20359,65.0,6,month-to-month,Fiber optic,51.07,304.41,Credit card,1,no
+20634,59.0,7,one-year,,105.98,759.84,Direct debit,2,no
+20633,22.0,0,two-year,Fiber optic,81.61,15.53,Direct debit,2,no
+20465,25.0,65,one-year,DSL,107.74,7006.76,Direct debit,2,no
+20533,50.0,48,month-to-month,DSL,107.1,5143.6,Bank transfer,0,yes
+20514,,2,month-to-month,DSL,68.7,148.24,Bank transfer,1,yes
+20247,52.0,8,month-to-month,Fiber optic,66.27,525.43,Credit card,0,yes
+20118,45.0,50,month-to-month,Fiber optic,55.65,2782.67,Direct debit,4,yes
+20541,83.0,41,one-year,Fiber optic,98.93,4050.81,Credit card,3,no
+20382,68.0,55,month-to-month,DSL,59.28,3268.06,Credit card,2,yes
+20250,34.0,34,two-year,Fiber optic,102.07,3469.32,Credit card,4,no
+20321,23.0,30,two-year,None,26.36,820.15,Direct debit,3,no
+20687,57.0,48,month-to-month,Fiber optic,101.27,4854.66,Direct debit,4,yes
+20196,65.0,29,month-to-month,Fiber optic,51.09,1471.7,Bank transfer,3,yes
+20846,29.0,43,month-to-month,Fiber optic,88.59,3810.1,Bank transfer,3,yes
+20081,52.0,52,month-to-month,None,28.91,1517.03,Credit card,5,yes
+20355,46.0,46,month-to-month,DSL,98.6,4563.42,Bank transfer,5,yes
+20451,34.0,16,month-to-month,None,17.49,271.1,Direct debit,0,no
+20795,70.0,70,two-year,None,38.42,2707.49,Direct debit,2,no
+20239,38.0,40,one-year,Fiber optic,,2813.62,Direct debit,0,no
+20917,66.0,14,one-year,DSL,93.34,1307.54,Direct debit,3,no
+20211,42.0,64,month-to-month,Fiber optic,103.69,6633.77,Direct debit,2,yes
+20703,79.0,24,month-to-month,Fiber optic,77.01,1875.31,Direct debit,2,yes
+20479,62.0,7,month-to-month,Fiber optic,,597.5,Direct debit,3,yes
+20425,66.0,24,two-year,,77.16,1842.03,Direct debit,5,no
+20227,34.0,10,month-to-month,DSL,85.32,852.67,Credit card,4,yes
+20837,60.0,7,two-year,DSL,94.08,675.15,Credit card,1,no
+20535,30.0,35,one-year,DSL,118.59,,Bank transfer,2,no
+20780,,38,two-year,Fiber optic,,4181.24,Credit card,1,no
+20576,56.0,30,month-to-month,Fiber optic,,1838.88,Credit card,3,no
+20545,22.0,17,month-to-month,DSL,52.54,886.34,Direct debit,1,no
+20567,34.0,34,month-to-month,Fiber optic,57.73,1983.75,Credit card,4,yes
+20942,24.0,67,month-to-month,None,24.01,,Direct debit,3,yes
+20720,,35,month-to-month,DSL,98.65,3475.12,Bank transfer,1,yes
+20773,77.0,25,month-to-month,DSL,74.42,1881.5,Bank transfer,6,yes
+20007,70.0,67,month-to-month,None,28.97,1953.15,Bank transfer,1,yes
+20155,19.0,58,two-year,None,30.09,1760.01,Bank transfer,4,no
+20530,44.0,59,two-year,None,23.15,1383.72,Credit card,3,no
+20464,55.0,21,month-to-month,None,22.2,483.77,Direct debit,2,no
+20457,26.0,39,one-year,Fiber optic,107.08,4170.75,Bank transfer,2,no
+20933,46.0,53,month-to-month,Fiber optic,48.94,2610.45,,1,no
+20762,26.0,21,month-to-month,Fiber optic,48.79,1050.71,Direct debit,2,yes
+20778,43.0,18,month-to-month,DSL,50.58,932.59,Credit card,2,no
+20914,49.0,51,month-to-month,Fiber optic,51.86,2665.86,Bank transfer,1,yes
+20588,64.0,56,month-to-month,Fiber optic,70.94,3982.21,Direct debit,0,yes
+20913,79.0,6,two-year,DSL,77.42,489.96,Credit card,0,no
+20428,36.0,8,month-to-month,None,15.87,137.33,Credit card,1,no
+20519,41.0,62,month-to-month,None,34.62,2136.47,Direct debit,1,no
+20570,62.0,39,two-year,DSL,,2083.32,Bank transfer,3,no
+20494,75.0,11,month-to-month,None,30.57,356.89,Credit card,5,yes
+20424,36.0,14,month-to-month,DSL,83.32,1195.39,Credit card,1,no
+20429,26.0,37,one-year,DSL,70.02,2581.73,Credit card,1,no
+20228,50.0,61,month-to-month,Fiber optic,58.87,3587.67,Bank transfer,2,yes
+20332,36.0,34,two-year,Fiber optic,83.8,2854.81,Direct debit,0,no
+20714,21.0,42,month-to-month,Fiber optic,82.71,3484.63,Credit card,3,yes
+20212,35.0,52,one-year,Fiber optic,111.49,,Credit card,3,no
+20079,25.0,64,one-year,Fiber optic,49.78,3179.8,Credit card,1,no
+20148,29.0,25,one-year,Fiber optic,80.55,2031.23,Direct debit,3,no
+20302,80.0,44,month-to-month,DSL,92.14,4054.59,Bank transfer,0,no
+20307,79.0,37,two-year,,106.95,3975.51,Credit card,0,no
+20481,75.0,49,month-to-month,Fiber optic,58.09,2856.52,Credit card,0,no
+20323,72.0,11,one-year,Fiber optic,114.97,1284.78,Credit card,1,no
+20806,46.0,17,month-to-month,None,17.28,307.8,Bank transfer,4,yes
+20318,70.0,52,month-to-month,Fiber optic,63.14,3292.61,Direct debit,4,yes
+20133,79.0,69,month-to-month,Fiber optic,88.7,6148.21,Credit card,2,no
+20539,64.0,5,month-to-month,,35.34,178.27,Credit card,2,yes
+20311,66.0,44,month-to-month,DSL,87.14,3824.9,Bank transfer,0,no
+20595,55.0,43,two-year,Fiber optic,98.94,4277.15,Direct debit,3,no
+20554,,1,one-year,Fiber optic,62.35,84.57,Bank transfer,3,no
+20000,69.0,50,two-year,DSL,86.81,4348.47,,3,no
+20316,77.0,9,one-year,Fiber optic,96.66,869.69,Credit card,4,yes
+20692,43.0,65,one-year,Fiber optic,71.98,4694.25,Direct debit,1,no
+20536,63.0,65,month-to-month,None,35.93,2340.85,Credit card,0,no
+20490,73.0,2,month-to-month,Fiber optic,69.63,157.81,Credit card,4,yes
+20521,25.0,48,month-to-month,Fiber optic,95.46,4608.78,Bank transfer,1,yes
+20605,46.0,25,two-year,DSL,72.97,1819.19,Direct debit,2,no
+20351,43.0,21,one-year,None,21.61,470.38,Direct debit,3,no
+20172,20.0,3,month-to-month,DSL,52.91,150.05,Bank transfer,1,yes
+20125,,16,month-to-month,None,21.0,347.08,Credit card,2,no
+20750,82.0,60,month-to-month,None,21.18,1273.91,Credit card,6,yes
+20398,43.0,63,two-year,Fiber optic,78.45,,Direct debit,1,no
+20882,80.0,37,two-year,DSL,118.99,4421.95,Bank transfer,2,no
+20090,65.0,58,month-to-month,Fiber optic,105.24,6107.45,Credit card,0,yes
+20918,62.0,20,two-year,DSL,58.71,1199.7,Direct debit,5,no
+20181,50.0,33,month-to-month,DSL,62.39,2049.46,Bank transfer,1,yes
+20274,83.0,37,two-year,Fiber optic,97.57,3618.4,Credit card,1,no
+20874,64.0,29,month-to-month,None,29.73,875.43,Direct debit,3,yes
+20069,58.0,70,two-year,Fiber optic,65.53,4580.77,Direct debit,5,no
+20291,74.0,39,month-to-month,,97.47,3794.69,Bank transfer,0,yes
+20131,18.0,7,month-to-month,Fiber optic,54.92,382.02,Direct debit,4,yes
+20300,83.0,40,one-year,DSL,80.86,3255.67,Direct debit,4,no
+20636,39.0,4,one-year,DSL,,332.58,Credit card,4,no
+20326,33.0,12,month-to-month,Fiber optic,101.95,1236.69,Direct debit,4,yes
+20144,69.0,15,one-year,DSL,54.14,819.73,Credit card,1,no
+20587,34.0,0,month-to-month,Fiber optic,108.82,-0.5,Credit card,1,yes
+20135,44.0,24,month-to-month,Fiber optic,113.36,2715.63,Credit card,2,yes
+20904,66.0,48,one-year,,55.45,2652.54,Credit card,2,no
+20164,72.0,44,one-year,Fiber optic,68.37,3024.7,Direct debit,1,no
+20028,72.0,1,month-to-month,DSL,73.95,74.55,Direct debit,1,no
+20551,43.0,41,month-to-month,Fiber optic,71.26,2935.04,Direct debit,3,no
+20193,77.0,15,two-year,Fiber optic,101.27,1545.52,,1,no
+20886,24.0,65,month-to-month,DSL,106.11,6920.48,Bank transfer,1,yes
+20625,84.0,22,two-year,DSL,82.9,1818.41,Bank transfer,6,yes
+20169,28.0,54,month-to-month,None,,873.02,Direct debit,1,no
+20934,72.0,51,month-to-month,Fiber optic,52.83,2699.48,Bank transfer,0,no
+20140,61.0,25,month-to-month,DSL,57.87,1458.4,Direct debit,1,no
+20173,37.0,24,one-year,Fiber optic,86.54,2105.12,Credit card,5,no
+20006,39.0,15,one-year,Fiber optic,46.42,704.15,Direct debit,2,no
+20629,78.0,44,month-to-month,,23.43,1056.13,Direct debit,1,no
+20453,63.0,31,month-to-month,Fiber optic,51.32,1606.24,Credit card,2,no
+20073,82.0,25,two-year,None,38.06,963.07,Direct debit,2,no
+20669,35.0,30,month-to-month,Fiber optic,72.7,2182.17,Direct debit,1,yes
+20575,51.0,46,month-to-month,Fiber optic,68.8,3166.41,Direct debit,4,yes
+20238,44.0,56,one-year,Fiber optic,108.0,6058.42,Bank transfer,3,no
+20145,79.0,70,month-to-month,DSL,76.19,,Direct debit,2,yes
+20911,68.0,5,month-to-month,Fiber optic,71.9,354.52,Credit card,1,no
+20234,68.0,71,month-to-month,Fiber optic,118.31,8390.72,Credit card,2,yes
+20220,31.0,60,month-to-month,Fiber optic,54.14,3242.69,Credit card,2,no
+20450,75.0,40,month-to-month,None,18.23,748.88,Direct debit,1,no
+20483,78.0,61,two-year,Fiber optic,98.38,6019.23,Credit card,1,no
+20132,44.0,20,one-year,,118.32,2372.45,Direct debit,3,no
+20107,80.0,39,month-to-month,Fiber optic,,3455.02,Bank transfer,1,yes
+20388,57.0,56,month-to-month,,99.38,5579.05,Direct debit,1,yes
+20185,28.0,17,one-year,Fiber optic,50.48,856.48,Credit card,2,no
+20041,19.0,13,month-to-month,None,34.31,465.72,,3,yes
+20598,68.0,5,month-to-month,None,20.81,126.89,Bank transfer,3,no
+20108,69.0,16,two-year,None,31.95,535.97,Direct debit,3,no
+20568,18.0,4,month-to-month,DSL,52.17,202.93,Direct debit,2,yes
+20056,35.0,40,month-to-month,DSL,93.12,3749.13,,2,yes
+20895,69.0,67,month-to-month,None,22.93,1544.06,Direct debit,3,no
+20843,40.0,2,one-year,Fiber optic,74.16,173.05,Bank transfer,0,no
+20552,80.0,43,two-year,None,18.71,826.4,Credit card,3,no
+20841,55.0,43,month-to-month,Fiber optic,114.44,4943.15,Direct debit,4,yes
+20024,79.0,46,one-year,Fiber optic,114.88,5277.89,Direct debit,0,no
+20422,30.0,19,month-to-month,,96.05,1826.53,Credit card,1,yes
+20854,26.0,35,two-year,Fiber optic,69.22,2450.9,Direct debit,0,no
+20606,21.0,28,month-to-month,Fiber optic,60.68,1693.99,Direct debit,2,no
+20680,30.0,64,one-year,Fiber optic,66.17,4229.29,Direct debit,1,no
+20905,,41,one-year,None,22.97,948.32,Direct debit,3,no
+20338,29.0,59,one-year,None,,2057.05,Credit card,1,no
+20051,23.0,28,one-year,DSL,104.63,2958.42,Credit card,3,no
+20482,37.0,61,one-year,Fiber optic,98.06,5981.97,Direct debit,0,no
+20497,49.0,24,month-to-month,Fiber optic,,2413.17,Direct debit,2,no
+20899,80.0,21,month-to-month,Fiber optic,65.34,,Credit card,2,no
+20620,21.0,56,one-year,Fiber optic,68.84,3860.38,Bank transfer,1,no
+20264,35.0,8,one-year,Fiber optic,46.08,377.6,Direct debit,3,no
+20526,,19,month-to-month,None,21.34,396.1,Credit card,1,no
+20668,40.0,72,month-to-month,DSL,66.69,4810.08,Direct debit,1,yes
+20500,64.0,54,month-to-month,None,33.11,1786.46,Credit card,0,yes
+20423,76.0,45,one-year,DSL,95.0,,Direct debit,1,no
+20018,66.0,18,month-to-month,DSL,76.22,1381.94,,6,yes
+20873,38.0,64,month-to-month,Fiber optic,93.08,,Direct debit,4,yes
+20848,79.0,34,month-to-month,None,33.29,1128.87,Direct debit,4,yes
+20557,18.0,37,month-to-month,DSL,110.14,4087.35,Credit card,4,yes
+20445,31.0,32,month-to-month,Fiber optic,108.16,,Bank transfer,2,yes
+20367,,25,one-year,Fiber optic,45.29,1129.37,Bank transfer,4,no
+20083,22.0,25,month-to-month,Fiber optic,51.32,1307.33,Bank transfer,2,no
+20061,65.0,24,month-to-month,Fiber optic,105.93,2556.44,Credit card,3,yes
+20693,81.0,45,two-year,Fiber optic,85.21,,Direct debit,3,no
+20272,64.0,10,one-year,,78.41,801.32,Direct debit,0,no
+20285,67.0,39,two-year,DSL,58.95,2289.33,Bank transfer,2,no
+20360,56.0,28,month-to-month,DSL,110.75,3121.02,Direct debit,0,yes
+20354,74.0,63,two-year,Fiber optic,88.62,,Bank transfer,0,no
+20432,33.0,62,two-year,Fiber optic,100.36,6233.65,Credit card,6,yes
+20278,50.0,17,month-to-month,DSL,94.1,1628.89,Credit card,3,yes
+20012,81.0,47,month-to-month,DSL,49.28,2331.0,Direct debit,0,no
+20182,57.0,29,month-to-month,None,34.5,1027.35,Credit card,0,no
+20368,75.0,45,one-year,,82.65,3723.32,Bank transfer,1,no
+20467,34.0,45,month-to-month,DSL,114.64,5181.35,Bank transfer,2,yes
+20603,68.0,36,two-year,None,22.45,818.97,Bank transfer,1,no
+20223,37.0,38,month-to-month,,35.86,1382.03,Direct debit,0,no
+20908,66.0,34,month-to-month,Fiber optic,78.33,2661.55,Credit card,3,yes
+20685,,59,month-to-month,Fiber optic,104.8,6176.79,Bank transfer,2,yes
+20478,84.0,40,month-to-month,Fiber optic,105.87,4240.79,Direct debit,3,yes
+20861,18.0,54,one-year,Fiber optic,52.98,2876.1,Credit card,1,no
+20677,,53,month-to-month,DSL,70.42,3751.18,Direct debit,2,yes
+20597,47.0,27,month-to-month,DSL,68.72,1852.78,Direct debit,2,yes
+20176,36.0,15,month-to-month,DSL,,1621.03,Direct debit,2,yes
+20652,43.0,18,one-year,DSL,75.39,1374.22,Credit card,3,no
+20615,60.0,19,month-to-month,None,21.79,405.53,Credit card,1,no
+20826,46.0,67,two-year,None,30.44,2064.34,Bank transfer,1,no
+20506,35.0,50,two-year,Fiber optic,55.26,2763.65,Credit card,1,no
+20915,47.0,13,one-year,None,31.05,423.06,,4,no
+20163,,59,month-to-month,,,,Direct debit,2,yes
+20248,81.0,19,month-to-month,Fiber optic,69.47,1345.41,Credit card,1,no
+20622,73.0,55,one-year,Fiber optic,73.66,4075.91,Bank transfer,2,no
+20865,71.0,15,month-to-month,Fiber optic,48.59,738.99,Credit card,4,yes
+20656,69.0,47,two-year,Fiber optic,108.79,5129.76,Bank transfer,0,no
+20375,41.0,28,one-year,Fiber optic,110.45,3104.25,Credit card,2,no
+20412,40.0,45,two-year,,73.54,3314.58,Credit card,3,no
+20074,26.0,61,two-year,Fiber optic,49.03,2991.03,Direct debit,3,no
+20113,46.0,24,two-year,DSL,115.04,2788.47,Bank transfer,4,no
+20558,38.0,40,month-to-month,Fiber optic,87.35,3507.52,Credit card,5,yes
+20549,66.0,25,month-to-month,DSL,70.96,1778.35,Credit card,3,yes
+20390,61.0,2,month-to-month,None,31.57,77.89,Direct debit,2,yes
+20104,32.0,65,one-year,,95.75,6242.38,Direct debit,2,no
+20114,53.0,38,one-year,Fiber optic,75.17,2860.54,Credit card,0,no
+20417,30.0,43,month-to-month,Fiber optic,105.42,4551.66,,3,yes
+20448,,10,month-to-month,None,25.74,286.61,,1,yes
+20409,66.0,52,month-to-month,Fiber optic,89.73,4693.3,Bank transfer,6,yes
+20092,79.0,53,month-to-month,None,22.31,1211.67,Bank transfer,0,no
+20807,50.0,66,month-to-month,DSL,108.38,7177.02,Direct debit,1,no
+20089,,35,two-year,Fiber optic,103.74,3658.16,Direct debit,1,no
+20336,40.0,62,month-to-month,Fiber optic,,3125.99,Direct debit,2,no
+20411,41.0,26,one-year,DSL,47.02,1217.53,Credit card,2,no
+20900,39.0,42,month-to-month,Fiber optic,102.02,4298.16,Credit card,4,yes
+20912,73.0,66,two-year,DSL,65.08,4297.72,Direct debit,2,no
+20594,81.0,48,two-year,,,2859.7,Direct debit,2,no
+20582,29.0,0,month-to-month,DSL,84.96,9.9,Bank transfer,1,no
+20599,80.0,60,month-to-month,Fiber optic,80.72,4850.36,Credit card,3,yes
+20094,61.0,23,one-year,DSL,93.51,2173.41,Direct debit,0,no
+20011,19.0,54,month-to-month,Fiber optic,68.98,3727.08,Direct debit,4,yes
+20396,52.0,60,one-year,DSL,48.08,2894.27,Direct debit,1,no
+20522,53.0,30,one-year,Fiber optic,70.3,2129.58,Credit card,2,no
+20043,,39,month-to-month,,68.49,2673.74,Bank transfer,2,no
+20042,77.0,8,month-to-month,DSL,,499.64,Direct debit,3,yes
+20329,36.0,16,month-to-month,Fiber optic,80.35,1301.0,,2,yes
+20167,55.0,42,month-to-month,Fiber optic,45.12,1904.93,Credit card,0,no
+20649,80.0,67,month-to-month,None,26.67,1783.83,Bank transfer,2,no
+20941,67.0,20,two-year,Fiber optic,45.16,901.13,Direct debit,2,no
+20666,24.0,47,month-to-month,DSL,114.32,5389.02,Direct debit,0,yes
+20740,67.0,48,month-to-month,Fiber optic,50.94,2464.29,,0,no
+20100,22.0,19,month-to-month,None,22.39,442.09,Credit card,1,no
+20426,29.0,70,two-year,Fiber optic,49.03,3438.61,Direct debit,3,no
+20178,36.0,65,month-to-month,None,29.01,1900.5,Bank transfer,0,no
+20444,56.0,44,month-to-month,Fiber optic,53.11,2337.59,Credit card,5,no
+20416,72.0,63,two-year,Fiber optic,90.99,5747.61,Credit card,3,no
+20635,78.0,28,month-to-month,DSL,52.44,1462.8,Credit card,3,yes
+20880,58.0,32,two-year,Fiber optic,45.58,1474.38,Credit card,3,no
+20781,59.0,17,two-year,Fiber optic,80.42,1372.5,Bank transfer,2,no
+20177,84.0,41,month-to-month,Fiber optic,101.46,4158.57,Direct debit,2,yes
+20395,19.0,33,month-to-month,Fiber optic,85.84,2841.25,Direct debit,3,yes
+20662,43.0,62,month-to-month,None,30.41,1877.89,Direct debit,0,no
+20777,22.0,23,one-year,Fiber optic,49.79,1156.82,Direct debit,1,no
+20939,72.0,12,month-to-month,Fiber optic,77.34,928.18,Credit card,4,yes
+20670,55.0,67,two-year,Fiber optic,94.78,6355.04,Direct debit,0,no
+20383,60.0,20,one-year,None,17.25,340.23,Credit card,1,no
+20935,20.0,2,month-to-month,Fiber optic,87.67,203.52,Credit card,2,yes
+20257,63.0,72,month-to-month,Fiber optic,55.43,4003.9,Credit card,0,no
+20527,,36,one-year,Fiber optic,103.73,3748.93,Direct debit,3,no
+20335,79.0,70,one-year,DSL,75.93,5333.7,Bank transfer,3,no
+20602,47.0,72,month-to-month,Fiber optic,,4849.9,Direct debit,2,yes
+20015,,32,month-to-month,DSL,112.74,3622.82,Credit card,4,yes
+20003,38.0,34,two-year,Fiber optic,105.58,3584.7,Credit card,2,no
+20501,38.0,44,month-to-month,Fiber optic,73.92,3266.79,Direct debit,3,yes
+20256,41.0,12,month-to-month,DSL,100.34,1197.21,Credit card,1,yes
+20534,46.0,50,two-year,Fiber optic,73.35,3688.03,Credit card,3,no
+20803,59.0,63,month-to-month,Fiber optic,52.27,3303.17,Credit card,0,yes
+20693,81.0,45,two-year,Fiber optic,85.21,,Direct debit,3,no
+20925,64.0,24,month-to-month,Fiber optic,109.97,2660.66,Credit card,2,yes
+20393,29.0,37,one-year,Fiber optic,90.1,3333.71,Bank transfer,0,no
+20222,65.0,69,month-to-month,None,18.9,1312.19,Direct debit,1,no
+20179,37.0,54,one-year,DSL,110.71,5970.26,Direct debit,3,no
+20289,77.0,66,month-to-month,None,16.08,1078.44,Direct debit,1,no
+20694,76.0,8,month-to-month,Fiber optic,98.8,817.23,Bank transfer,3,yes
+20324,57.0,38,month-to-month,DSL,88.99,3391.62,Credit card,1,yes
+20643,66.0,16,one-year,Fiber optic,62.67,996.53,Credit card,3,no
+20009,47.0,53,one-year,Fiber optic,54.97,2921.61,Bank transfer,2,no
+20249,66.0,60,month-to-month,Fiber optic,46.56,2794.6,Credit card,3,yes
+20022,32.0,1,one-year,DSL,83.42,83.49,Direct debit,1,no
+20356,64.0,28,one-year,DSL,63.02,1779.84,Direct debit,2,no
+20221,38.0,42,month-to-month,Fiber optic,46.37,1954.48,Bank transfer,1,no
+20653,53.0,30,one-year,Fiber optic,62.93,1886.01,Direct debit,3,no
+20842,23.0,57,month-to-month,Fiber optic,94.5,5409.51,Direct debit,0,yes
+20281,65.0,59,one-year,Fiber optic,53.87,3170.18,Credit card,1,no
+20785,31.0,68,month-to-month,None,37.94,2591.34,Credit card,3,no
+20340,75.0,21,two-year,None,32.26,668.61,,1,no
+20431,69.0,59,month-to-month,Fiber optic,55.38,,Bank transfer,3,yes
+20792,,36,two-year,Fiber optic,115.68,,Bank transfer,3,no
+20879,43.0,31,one-year,,82.2,2565.81,Credit card,5,no
+20203,20.0,13,one-year,None,34.55,474.3,Direct debit,5,no
+20618,33.0,49,one-year,None,31.32,1532.76,Credit card,2,no
+20093,54.0,54,one-year,DSL,,2778.57,Direct debit,1,no
+20547,82.0,20,one-year,DSL,91.25,1833.98,Credit card,3,no
+20068,77.0,52,month-to-month,,23.4,1207.67,Direct debit,1,yes
+20682,27.0,14,two-year,Fiber optic,64.23,898.86,Credit card,1,no
+20284,43.0,68,two-year,Fiber optic,61.54,4181.81,Credit card,2,no
+20786,49.0,46,month-to-month,Fiber optic,104.56,4803.17,Direct debit,3,yes
+20434,42.0,71,month-to-month,Fiber optic,115.4,8215.42,,4,yes
+20153,76.0,47,one-year,None,33.24,1564.51,Credit card,3,no
+20075,18.0,45,month-to-month,None,30.27,1382.87,Credit card,4,no
+20716,68.0,22,two-year,Fiber optic,93.81,2054.43,Credit card,0,no
+20446,22.0,40,two-year,Fiber optic,91.06,3666.73,Direct debit,1,no
+20188,40.0,45,month-to-month,DSL,62.59,2842.35,Credit card,2,yes
+20271,49.0,4,two-year,DSL,101.59,,Credit card,2,no
+20236,25.0,62,one-year,None,16.91,,Credit card,1,no
+20487,79.0,57,two-year,Fiber optic,54.11,3087.94,Credit card,0,no
+20117,76.0,43,one-year,None,17.22,743.82,Direct debit,3,no
+20800,84.0,56,two-year,None,19.15,1087.65,Bank transfer,1,no
+20512,18.0,55,one-year,Fiber optic,107.73,5944.55,Direct debit,2,no
+20542,27.0,57,one-year,Fiber optic,86.06,4913.55,Bank transfer,0,no
+20580,,13,one-year,DSL,112.97,1469.73,Direct debit,3,no
+20126,45.0,56,month-to-month,Fiber optic,109.69,6155.94,Bank transfer,2,yes
+20116,,2,two-year,None,36.24,89.35,Credit card,3,no
+20473,,5,month-to-month,,51.95,257.07,Direct debit,2,yes
+20679,34.0,14,one-year,Fiber optic,50.81,721.3,Direct debit,1,no
+20057,,37,one-year,DSL,46.92,1732.86,Bank transfer,5,no
+20660,45.0,63,month-to-month,None,15.0,964.2,Direct debit,2,no
+20891,68.0,51,month-to-month,DSL,53.93,2746.05,Direct debit,0,no
+20369,18.0,28,month-to-month,DSL,88.73,2492.05,Bank transfer,1,yes
+20268,84.0,8,one-year,,22.2,174.1,Bank transfer,1,no
+20046,52.0,72,one-year,DSL,,3284.51,,1,no
+20349,39.0,9,month-to-month,DSL,63.42,568.47,,2,no
+20195,18.0,9,one-year,Fiber optic,91.85,823.27,Credit card,1,no
+20457,26.0,39,one-year,Fiber optic,107.08,4170.75,Bank transfer,2,no
+20816,83.0,41,month-to-month,None,15.56,,Direct debit,1,no
+20721,43.0,50,month-to-month,Fiber optic,117.99,5904.67,Credit card,0,no
+20263,84.0,28,month-to-month,Fiber optic,82.68,2330.0,Credit card,1,no
+20443,75.0,10,one-year,DSL,58.38,,Credit card,2,no
+20924,18.0,9,month-to-month,Fiber optic,58.2,529.29,,2,yes
+20304,42.0,41,two-year,None,21.86,902.24,Credit card,2,no
+20341,18.0,67,month-to-month,DSL,51.53,3468.26,Direct debit,1,no
+20945,74.0,44,two-year,None,36.59,1617.2,Credit card,3,no
+20149,56.0,6,month-to-month,Fiber optic,78.84,498.76,Bank transfer,1,no
+20124,23.0,60,two-year,Fiber optic,50.32,3034.48,Credit card,1,no
+20770,81.0,71,one-year,DSL,98.18,,Direct debit,2,no
+20050,19.0,57,two-year,Fiber optic,106.89,6115.58,Bank transfer,3,no
+20353,68.0,13,month-to-month,None,21.94,275.98,Bank transfer,0,no
+20906,80.0,37,two-year,Fiber optic,110.37,4085.66,Direct debit,0,no
+20142,76.0,31,month-to-month,None,26.56,853.15,Credit card,1,no
+20470,53.0,48,month-to-month,Fiber optic,64.88,3142.97,Bank transfer,0,yes
+20399,51.0,24,month-to-month,Fiber optic,46.5,1141.95,Credit card,2,yes
+20613,70.0,50,two-year,Fiber optic,108.55,5437.24,Credit card,2,no
+20320,22.0,38,month-to-month,Fiber optic,117.58,4482.49,,0,yes
+20019,,35,one-year,Fiber optic,71.74,2531.49,Direct debit,1,no
+20866,74.0,11,month-to-month,Fiber optic,116.14,1269.94,Credit card,1,yes
+20774,47.0,36,one-year,None,21.77,798.6,Direct debit,1,no
+20790,80.0,21,month-to-month,Fiber optic,87.76,1861.67,Direct debit,0,yes
+20407,41.0,45,month-to-month,DSL,61.43,2773.08,Credit card,1,yes
+20537,52.0,33,two-year,None,18.18,606.66,Bank transfer,5,no
+20621,21.0,38,month-to-month,Fiber optic,45.66,1758.57,Credit card,4,yes
+20038,,23,month-to-month,None,34.65,823.38,Credit card,2,yes
+20175,53.0,32,one-year,DSL,66.1,2136.76,Credit card,6,no
+20245,36.0,46,month-to-month,DSL,113.69,,Direct debit,3,yes
+20810,46.0,40,month-to-month,None,16.39,674.74,Direct debit,2,no
+20811,55.0,23,two-year,Fiber optic,67.16,1547.34,Credit card,2,no
+20889,,64,month-to-month,None,33.62,2170.77,Bank transfer,3,yes
+20839,37.0,49,two-year,Fiber optic,63.31,3119.07,Direct debit,3,no
+20154,19.0,71,month-to-month,Fiber optic,106.32,7569.09,Bank transfer,2,yes
+20287,41.0,61,month-to-month,Fiber optic,,3698.21,Credit card,2,no
+20591,83.0,36,month-to-month,Fiber optic,105.15,3813.21,Bank transfer,0,yes
+20569,68.0,64,one-year,,76.44,4913.3,Credit card,0,no
+20827,25.0,12,month-to-month,None,20.19,241.78,Direct debit,2,no
+20017,39.0,18,month-to-month,None,39.71,706.33,Direct debit,3,yes
+20127,,54,month-to-month,None,,,Direct debit,2,no
+20322,64.0,1,one-year,DSL,87.33,91.76,Bank transfer,2,no
+20255,54.0,31,one-year,DSL,80.74,2501.65,Credit card,2,no
+20644,62.0,25,one-year,None,34.75,859.85,Bank transfer,3,no
+20943,25.0,24,month-to-month,Fiber optic,83.87,2042.86,Bank transfer,3,yes
+20190,59.0,61,one-year,DSL,113.84,,Direct debit,1,no
+20115,30.0,34,month-to-month,Fiber optic,80.16,2733.29,Direct debit,7,yes
+20604,22.0,19,month-to-month,Fiber optic,56.61,1074.96,Direct debit,3,yes
+20180,69.0,41,two-year,None,17.07,709.21,Bank transfer,0,no
+20301,49.0,12,two-year,None,,308.23,Credit card,1,no
+20743,40.0,38,two-year,Fiber optic,59.16,,Credit card,2,no
+20732,31.0,27,month-to-month,Fiber optic,64.11,1759.85,,2,yes
+20718,74.0,14,month-to-month,Fiber optic,58.18,818.98,Bank transfer,0,no
+20870,72.0,29,one-year,None,23.86,706.2,Direct debit,2,no
+20757,52.0,0,one-year,DSL,103.89,25.31,Bank transfer,2,no
+20517,29.0,60,month-to-month,DSL,48.72,2923.63,,3,no
+20059,79.0,16,month-to-month,,112.74,1812.4,,5,yes
+20045,64.0,24,one-year,Fiber optic,74.87,1795.67,Credit card,2,no
+20888,34.0,72,month-to-month,DSL,68.23,4928.51,Direct debit,1,no
+20157,18.0,17,one-year,DSL,95.52,1634.35,Credit card,3,no
+20728,37.0,67,two-year,DSL,79.25,,Bank transfer,3,no
+20171,76.0,14,month-to-month,None,15.38,222.6,Direct debit,2,no
+20016,75.0,22,month-to-month,Fiber optic,46.85,1038.25,Bank transfer,3,yes
+20511,48.0,36,one-year,Fiber optic,99.35,3574.86,Bank transfer,3,no
+20048,67.0,3,one-year,DSL,114.11,337.67,Direct debit,2,no
+20949,84.0,12,one-year,None,23.32,273.63,Credit card,1,no
+20822,64.0,72,month-to-month,Fiber optic,70.19,5061.37,Credit card,0,no
+20515,33.0,27,one-year,DSL,108.92,2957.61,Bank transfer,4,yes
+20672,81.0,18,month-to-month,Fiber optic,116.55,2123.32,Credit card,1,yes
+20480,30.0,71,one-year,DSL,49.3,3511.76,Credit card,1,no
+20283,59.0,27,month-to-month,DSL,104.48,2847.46,Direct debit,3,yes
+20704,41.0,11,two-year,DSL,53.34,596.09,Credit card,4,no
+20885,19.0,22,month-to-month,Fiber optic,96.54,2124.52,Credit card,5,yes
+20225,24.0,62,month-to-month,DSL,116.35,7225.5,Bank transfer,1,yes
+20026,79.0,19,month-to-month,Fiber optic,105.28,2010.29,Direct debit,3,yes
+20813,44.0,45,one-year,DSL,95.1,4277.28,Credit card,3,no
+20437,40.0,71,month-to-month,Fiber optic,109.17,7742.73,Direct debit,6,yes
+20930,21.0,35,month-to-month,DSL,118.79,4167.28,Bank transfer,2,yes
+20364,51.0,31,month-to-month,None,21.2,,Direct debit,0,yes
+20229,65.0,24,one-year,DSL,77.11,1845.62,Direct debit,1,no
+20037,77.0,43,month-to-month,DSL,77.11,3316.42,Credit card,2,yes
+20944,82.0,67,month-to-month,None,24.69,1669.13,Credit card,2,yes
+20374,49.0,28,two-year,None,27.83,770.41,Direct debit,2,no
+20469,21.0,43,one-year,None,37.24,1613.0,Credit card,2,no
+20946,84.0,59,month-to-month,Fiber optic,86.02,5076.71,Direct debit,2,no
+20832,19.0,4,month-to-month,Fiber optic,58.65,228.38,Bank transfer,1,no
+20711,41.0,47,two-year,Fiber optic,106.7,5042.17,Direct debit,1,no
+20194,19.0,55,one-year,None,20.58,1159.02,Direct debit,1,no
+20835,,31,month-to-month,Fiber optic,50.97,1600.57,Bank transfer,2,yes
+20845,63.0,1,one-year,Fiber optic,64.69,82.6,Credit card,2,no
+20503,36.0,52,two-year,DSL,109.2,5694.12,Direct debit,3,no
+20948,71.0,31,one-year,DSL,78.35,2420.83,Direct debit,2,no
+20857,57.0,46,two-year,DSL,57.98,2665.44,Credit card,2,no
+20579,71.0,66,month-to-month,,101.38,6694.23,Credit card,2,yes
+20947,76.0,11,month-to-month,DSL,98.58,1098.54,Credit card,1,yes
+20162,49.0,23,month-to-month,Fiber optic,94.56,2195.96,Direct debit,1,no
+20688,59.0,34,month-to-month,None,28.25,954.54,Direct debit,2,yes
+20152,73.0,8,month-to-month,None,26.0,225.75,Direct debit,3,yes
+20667,20.0,12,two-year,DSL,62.28,749.46,Credit card,1,no
+20931,18.0,13,month-to-month,Fiber optic,113.23,1465.01,,0,no
+20739,23.0,1,month-to-month,DSL,102.44,101.28,Direct debit,1,yes
+20111,32.0,42,month-to-month,DSL,118.59,4993.69,Direct debit,1,yes
+20226,84.0,45,one-year,DSL,55.28,2481.07,Credit card,3,no
+20844,64.0,69,month-to-month,None,15.42,1070.55,Direct debit,2,yes
+20103,26.0,25,two-year,Fiber optic,106.54,2659.09,Credit card,3,no
+20421,79.0,2,month-to-month,DSL,91.37,211.32,Credit card,1,no
+20419,47.0,23,month-to-month,Fiber optic,117.16,2696.94,Direct debit,0,yes
+20734,55.0,7,two-year,None,19.73,142.28,Credit card,1,no
+20586,74.0,42,one-year,None,29.32,1248.0,Bank transfer,1,no
+20764,52.0,8,month-to-month,DSL,111.78,918.78,Credit card,1,yes
+20119,83.0,11,month-to-month,None,28.53,329.07,Direct debit,2,no
+20053,21.0,69,month-to-month,Fiber optic,102.39,7075.19,Credit card,4,yes
+20151,20.0,6,month-to-month,Fiber optic,84.75,509.85,,0,no
+20403,53.0,14,one-year,DSL,79.82,1125.83,Direct debit,1,no
+20924,18.0,9,month-to-month,Fiber optic,58.2,529.29,,2,yes
+20207,,61,two-year,DSL,105.61,6456.76,Direct debit,3,no
+20658,73.0,61,one-year,DSL,85.69,5254.02,Credit card,1,no
+20825,32.0,40,one-year,Fiber optic,70.35,2831.3,Direct debit,6,yes
+20746,19.0,70,month-to-month,None,38.38,2680.26,Credit card,4,no
+20008,,36,month-to-month,,60.63,2184.6,Direct debit,3,yes
+20789,40.0,20,one-year,Fiber optic,95.98,1948.18,Credit card,0,no
+20036,21.0,52,month-to-month,Fiber optic,117.39,,Credit card,6,yes
+20452,24.0,45,one-year,None,30.08,1348.46,,2,no
+20651,78.0,0,month-to-month,Fiber optic,70.41,10.21,Credit card,0,no
+20253,63.0,16,month-to-month,,53.9,870.33,Direct debit,2,yes
+20303,68.0,52,month-to-month,DSL,92.49,4803.18,Credit card,1,yes
+20730,64.0,26,month-to-month,Fiber optic,48.94,1282.49,Credit card,3,yes
+20571,21.0,55,month-to-month,Fiber optic,57.89,3191.84,Direct debit,2,yes
+20623,42.0,42,two-year,None,37.34,1582.39,Credit card,1,no
+20695,73.0,2,month-to-month,Fiber optic,78.27,150.29,Direct debit,0,no
+20705,72.0,4,one-year,Fiber optic,47.28,,Direct debit,0,no
+20262,50.0,66,two-year,Fiber optic,107.73,7109.75,Credit card,0,no
+20610,34.0,58,one-year,,78.77,4560.05,Direct debit,1,no
+20297,33.0,58,month-to-month,Fiber optic,83.11,4839.75,Direct debit,2,yes
+20414,54.0,70,one-year,Fiber optic,84.85,5963.71,Credit card,0,no
+20150,19.0,13,two-year,Fiber optic,110.19,1450.05,,2,no
+20919,47.0,34,two-year,DSL,62.43,2118.11,,2,no
+20640,29.0,54,month-to-month,,114.27,6190.2,Direct debit,1,yes
+20868,,2,month-to-month,Fiber optic,45.51,105.64,Credit card,5,yes
+20550,28.0,7,two-year,Fiber optic,94.03,669.38,Credit card,3,no
+20901,43.0,14,month-to-month,DSL,99.18,1416.93,Bank transfer,1,no
+20488,80.0,21,one-year,Fiber optic,99.08,2108.81,,1,no
+20147,69.0,22,two-year,None,23.92,544.86,Direct debit,4,no
+20146,75.0,16,month-to-month,DSL,49.73,819.22,Bank transfer,1,no
+20706,26.0,47,one-year,Fiber optic,99.52,,Credit card,0,no
+20910,30.0,29,two-year,DSL,98.75,2861.33,Credit card,1,no
+20896,50.0,54,two-year,Fiber optic,110.83,6011.57,Direct debit,0,no
+20659,31.0,65,month-to-month,DSL,94.02,6101.93,,4,yes
+20348,80.0,16,two-year,Fiber optic,74.8,1225.16,Direct debit,6,no
+20463,54.0,25,month-to-month,DSL,83.86,2113.39,Direct debit,0,yes
+20325,69.0,65,two-year,,84.46,5485.01,Credit card,1,no
+20186,,31,two-year,Fiber optic,100.8,3144.95,Direct debit,2,no
+20123,74.0,48,month-to-month,Fiber optic,69.46,3348.31,Bank transfer,1,no
+20834,53.0,26,month-to-month,Fiber optic,108.36,2823.94,Bank transfer,2,yes
+20608,73.0,34,one-year,Fiber optic,115.82,3957.27,Credit card,0,no
+20143,49.0,9,two-year,,47.5,456.16,Bank transfer,4,no
+20937,27.0,5,two-year,None,33.08,183.72,Direct debit,2,no
+20197,29.0,24,month-to-month,Fiber optic,78.92,1923.44,Direct debit,1,no
+20609,34.0,69,month-to-month,,26.85,1855.51,Credit card,2,no
+20279,26.0,69,month-to-month,Fiber optic,75.84,5257.7,Credit card,4,yes
+20293,62.0,32,month-to-month,Fiber optic,53.69,1733.29,Bank transfer,4,yes
+20400,24.0,23,month-to-month,Fiber optic,49.69,1151.13,Direct debit,4,yes
+20122,79.0,58,two-year,DSL,67.97,3952.82,Bank transfer,3,no
+20183,56.0,12,one-year,None,,238.68,Direct debit,2,no
+20202,65.0,44,month-to-month,DSL,,4531.92,Direct debit,2,no
+20438,,20,two-year,None,30.95,617.27,Direct debit,2,no
+20246,21.0,48,one-year,None,36.12,1732.81,Credit card,2,no
+20415,29.0,2,two-year,Fiber optic,74.68,153.71,,3,no
+20760,77.0,46,month-to-month,None,22.08,1013.3,Credit card,2,yes
+20749,19.0,41,two-year,None,15.36,631.25,Bank transfer,2,no
+20752,34.0,55,one-year,None,19.12,1057.15,Credit card,1,no
+20867,18.0,7,month-to-month,DSL,,715.02,Bank transfer,2,yes
+20129,79.0,11,month-to-month,DSL,92.22,1033.52,Bank transfer,3,yes
+20637,38.0,46,month-to-month,DSL,,4249.75,Bank transfer,2,yes
+20402,46.0,17,month-to-month,Fiber optic,,1536.12,Credit card,1,yes
+20817,27.0,31,two-year,DSL,46.02,1444.02,Bank transfer,2,no
+20754,32.0,67,month-to-month,DSL,63.82,4302.64,Direct debit,3,yes
+20892,71.0,61,two-year,None,27.83,1705.35,Credit card,1,no
+20219,50.0,36,month-to-month,None,18.96,693.09,Bank transfer,4,yes
+20641,63.0,42,one-year,Fiber optic,119.81,5026.74,Credit card,2,no
+20894,42.0,25,month-to-month,DSL,61.51,,Direct debit,1,no
+20736,28.0,35,two-year,None,33.8,1188.63,Credit card,3,no
+20788,55.0,32,month-to-month,Fiber optic,115.32,3710.02,Direct debit,3,yes
+20898,46.0,34,one-year,DSL,98.65,3366.05,Direct debit,0,no
+20624,84.0,49,one-year,DSL,47.8,2361.3,Bank transfer,5,no
+20820,30.0,35,one-year,DSL,62.97,2197.02,Credit card,1,no
+20864,53.0,16,two-year,Fiber optic,101.05,1632.08,Direct debit,0,no
+20386,82.0,5,month-to-month,Fiber optic,77.31,412.73,Credit card,2,yes
+20199,49.0,64,two-year,None,21.16,1346.46,Direct debit,1,no
+20509,31.0,17,two-year,DSL,74.09,1274.42,Bank transfer,3,no
+20267,75.0,41,one-year,None,20.42,,Direct debit,5,no
+20801,24.0,24,month-to-month,DSL,62.75,1502.54,Direct debit,0,yes
+20441,70.0,37,two-year,Fiber optic,83.68,3090.31,Direct debit,1,no
+20496,62.0,12,month-to-month,Fiber optic,55.23,,Bank transfer,0,yes
+20112,60.0,41,month-to-month,Fiber optic,114.94,4708.03,Credit card,4,yes
+20691,69.0,71,month-to-month,DSL,80.02,5671.51,Credit card,2,yes
+20232,47.0,3,one-year,DSL,72.25,215.48,Direct debit,3,no
+20850,60.0,7,one-year,DSL,,599.91,,0,no
+20607,27.0,0,two-year,Fiber optic,97.18,13.33,,1,no
+20671,32.0,3,month-to-month,Fiber optic,53.87,,Direct debit,3,no
+20373,19.0,14,month-to-month,Fiber optic,82.44,1173.72,Credit card,3,yes
+20174,76.0,12,one-year,None,36.83,440.36,Credit card,0,no
+20824,73.0,69,month-to-month,None,19.24,1330.18,Direct debit,0,no
+20233,55.0,58,one-year,None,,1158.57,Direct debit,1,no
+20578,51.0,9,month-to-month,DSL,52.68,491.01,Bank transfer,2,yes
+20676,34.0,0,month-to-month,DSL,46.25,3.27,Credit card,3,no
+20317,25.0,31,month-to-month,DSL,86.4,2680.64,Credit card,3,yes
+20648,73.0,45,month-to-month,DSL,116.59,5263.46,Credit card,1,yes
+20410,53.0,7,month-to-month,Fiber optic,81.35,596.75,Bank transfer,2,yes
+20877,69.0,21,one-year,DSL,108.75,2278.0,Direct debit,2,no
+20709,57.0,14,two-year,Fiber optic,56.88,814.02,Bank transfer,2,no
+20358,33.0,51,one-year,DSL,66.18,3386.19,Credit card,0,no
+20258,70.0,67,one-year,None,22.99,1534.26,Direct debit,0,no
+20744,27.0,12,one-year,DSL,76.08,910.46,Credit card,1,no
+20627,49.0,37,one-year,Fiber optic,92.59,3442.51,Credit card,3,no
+20632,38.0,7,one-year,DSL,78.4,563.62,Credit card,0,no
+20282,56.0,47,one-year,DSL,75.11,3543.35,Direct debit,1,no
+20376,29.0,31,one-year,Fiber optic,51.53,1589.55,Bank transfer,1,no
+20384,29.0,46,month-to-month,None,19.83,,Credit card,2,no
+20224,25.0,55,two-year,Fiber optic,119.39,6590.05,Direct debit,2,no
+20932,25.0,64,two-year,DSL,108.88,6983.03,Direct debit,0,no
+20796,68.0,31,month-to-month,Fiber optic,96.63,3000.4,Credit card,3,yes
+20472,36.0,66,two-year,DSL,59.47,3952.66,Direct debit,2,no
+20347,81.0,21,month-to-month,None,20.87,,Credit card,1,no
+20505,74.0,31,one-year,Fiber optic,,3280.18,Credit card,1,no
+20639,22.0,64,month-to-month,Fiber optic,92.06,5921.08,Direct debit,3,yes
+20076,25.0,63,month-to-month,Fiber optic,62.35,3948.12,Credit card,0,no
+20907,78.0,44,one-year,None,18.21,821.16,Credit card,2,no
+20884,55.0,35,one-year,Fiber optic,74.66,2642.77,Bank transfer,1,no
+20619,25.0,28,month-to-month,Fiber optic,105.64,2952.32,Credit card,2,yes
+20836,43.0,20,two-year,DSL,98.02,1986.41,Direct debit,1,no
+20645,44.0,7,two-year,Fiber optic,74.93,530.66,Direct debit,3,no
+20828,22.0,48,two-year,Fiber optic,101.29,4891.08,Credit card,4,no
+20556,50.0,68,two-year,,,8117.54,Direct debit,0,no
+20936,49.0,40,one-year,None,19.43,802.17,Credit card,4,no
+20577,,10,two-year,DSL,,838.44,Credit card,1,no
+20085,45.0,20,two-year,Fiber optic,62.67,1274.77,Credit card,1,no
+20242,81.0,4,two-year,Fiber optic,68.6,271.74,Direct debit,2,no
+20698,70.0,47,month-to-month,None,28.09,1310.28,Direct debit,0,yes
+20159,19.0,16,month-to-month,Fiber optic,65.77,1055.46,Direct debit,1,yes
+20524,75.0,60,two-year,Fiber optic,66.1,3973.9,Credit card,1,no
+20035,35.0,8,month-to-month,DSL,58.68,480.41,Bank transfer,3,yes
+20540,42.0,38,month-to-month,Fiber optic,73.72,2809.41,Direct debit,1,no
+20170,33.0,38,month-to-month,DSL,80.9,3064.97,Direct debit,3,yes
+20654,18.0,13,month-to-month,Fiber optic,92.17,1218.04,,4,yes
+20869,71.0,15,month-to-month,DSL,102.29,1532.06,Direct debit,2,yes
+20855,68.0,68,one-year,None,31.31,2155.87,Direct debit,1,no
+20829,46.0,59,month-to-month,None,17.81,1056.24,Credit card,0,no
+20923,35.0,19,one-year,DSL,61.94,1196.07,Credit card,1,no
+20733,81.0,34,month-to-month,None,18.18,,Direct debit,0,no
+20095,52.0,21,two-year,None,16.04,356.82,Credit card,2,no
+20563,70.0,69,month-to-month,Fiber optic,96.39,6665.09,Credit card,4,yes
+20240,47.0,2,two-year,Fiber optic,98.17,203.33,Credit card,2,no
+20742,22.0,6,month-to-month,Fiber optic,46.46,285.37,Bank transfer,2,no
+20574,49.0,22,two-year,DSL,49.79,1120.47,Direct debit,2,no
+20690,23.0,10,one-year,Fiber optic,109.26,1122.59,Direct debit,3,no
+20460,83.0,32,one-year,DSL,53.93,1736.57,Bank transfer,1,no
+20553,76.0,13,month-to-month,DSL,111.36,1451.32,Credit card,4,yes
+20858,58.0,54,month-to-month,,65.01,3534.48,Direct debit,5,yes
+20206,71.0,17,one-year,None,17.89,302.35,Direct debit,3,no
+20392,30.0,57,month-to-month,DSL,,5946.66,Credit card,0,yes
+20794,83.0,34,one-year,Fiber optic,46.8,1608.08,Direct debit,2,no
+20397,25.0,34,month-to-month,Fiber optic,100.86,3456.64,Bank transfer,2,yes
+20766,57.0,8,one-year,DSL,80.42,669.34,Credit card,3,no
+20830,,1,month-to-month,Fiber optic,55.77,56.46,Bank transfer,2,yes
+20217,58.0,11,month-to-month,Fiber optic,109.41,1216.49,Credit card,1,yes
+20004,41.0,31,month-to-month,Fiber optic,111.44,3470.74,Direct debit,3,yes
+20768,39.0,9,month-to-month,None,21.1,206.73,Bank transfer,1,yes
+20642,51.0,29,month-to-month,None,24.25,723.51,Credit card,2,yes
+20876,26.0,69,month-to-month,DSL,45.2,3110.95,Credit card,0,no
+20612,23.0,32,month-to-month,None,22.39,743.07,Direct debit,1,no
+20738,50.0,17,month-to-month,Fiber optic,92.69,1574.35,Credit card,2,yes
+20546,50.0,39,month-to-month,None,22.21,863.86,Bank transfer,2,yes
+20725,22.0,12,month-to-month,Fiber optic,73.19,871.1,Direct debit,3,yes
+20683,84.0,20,month-to-month,DSL,115.05,2291.63,,2,yes
+20098,20.0,32,month-to-month,DSL,109.48,3495.64,Credit card,1,yes
+20804,81.0,34,month-to-month,DSL,,1662.66,Bank transfer,0,yes
+20727,36.0,33,month-to-month,Fiber optic,45.54,1512.95,Credit card,2,yes
+20573,82.0,44,month-to-month,None,37.28,1657.9,Credit card,2,yes
+20406,,59,month-to-month,None,19.28,,Direct debit,6,yes
+20502,53.0,7,month-to-month,Fiber optic,83.0,,Bank transfer,1,yes
+20047,53.0,21,month-to-month,DSL,84.26,1795.44,Bank transfer,1,yes
+20032,24.0,4,one-year,None,22.35,83.53,Credit card,2,no
+20779,79.0,59,month-to-month,Fiber optic,53.65,3175.71,Direct debit,2,yes
+20200,26.0,48,two-year,None,25.59,1251.64,Direct debit,3,no
+20134,20.0,71,month-to-month,DSL,119.66,8501.72,Direct debit,1,yes
+20027,68.0,10,month-to-month,,51.28,514.66,Direct debit,5,yes
+20604,22.0,19,month-to-month,Fiber optic,56.61,1074.96,Direct debit,3,yes
+20230,76.0,70,month-to-month,Fiber optic,49.61,3477.34,Credit card,2,no
+20489,42.0,25,two-year,DSL,58.78,1495.63,Direct debit,5,no
+20772,31.0,48,month-to-month,Fiber optic,106.54,,Credit card,1,no
+20378,52.0,46,one-year,Fiber optic,96.86,4447.79,Bank transfer,1,no
+20288,30.0,57,month-to-month,Fiber optic,64.57,3687.04,Direct debit,0,yes
+20418,40.0,52,one-year,Fiber optic,67.48,3516.15,Direct debit,1,no
+20674,56.0,12,two-year,Fiber optic,88.29,1084.78,Credit card,1,no
+20391,46.0,0,month-to-month,Fiber optic,118.93,-6.73,,1,yes
+20592,68.0,46,two-year,Fiber optic,57.04,2650.52,,1,no
+20498,,44,two-year,None,34.44,1526.82,Credit card,1,no
+20138,54.0,58,month-to-month,None,22.36,1294.99,Credit card,2,no
+20062,32.0,26,two-year,Fiber optic,51.18,1346.85,Bank transfer,1,no
+20471,48.0,60,one-year,Fiber optic,97.21,5828.51,Bank transfer,2,no
+20647,64.0,71,month-to-month,None,23.64,1675.44,Bank transfer,3,yes
+20128,47.0,46,month-to-month,Fiber optic,97.14,4488.56,Direct debit,2,yes
+20874,64.0,29,month-to-month,None,29.73,875.43,Direct debit,3,yes
+20520,45.0,6,month-to-month,DSL,69.35,444.62,Direct debit,2,no
+20838,,71,two-year,None,39.04,2766.05,Bank transfer,6,no
+20064,57.0,30,one-year,Fiber optic,81.42,2435.6,Direct debit,0,no
+20812,74.0,59,month-to-month,DSL,51.79,,Direct debit,0,no
+20014,38.0,6,one-year,None,33.24,,Credit card,2,no
+20156,71.0,38,one-year,Fiber optic,108.99,4134.72,Direct debit,2,no
+20040,70.0,58,two-year,Fiber optic,72.52,4201.32,Credit card,2,no
+20492,55.0,59,month-to-month,None,18.16,,Credit card,2,no
+20379,50.0,21,month-to-month,,64.63,1383.7,Credit card,4,yes
+20187,67.0,38,month-to-month,Fiber optic,98.33,3736.68,Direct debit,2,yes
+20763,,20,one-year,DSL,86.05,1713.03,Credit card,3,no
+20216,78.0,67,one-year,DSL,85.1,5705.13,Direct debit,1,no
+20791,32.0,47,one-year,Fiber optic,90.76,,Direct debit,2,no
+20052,71.0,36,month-to-month,Fiber optic,69.28,2502.24,Direct debit,1,no
+20337,26.0,27,month-to-month,DSL,88.18,2407.27,Direct debit,4,yes
+20748,57.0,55,month-to-month,None,26.13,1462.82,Direct debit,3,yes
+20719,83.0,24,month-to-month,None,15.26,372.5,,1,no
+20724,61.0,20,month-to-month,None,23.55,499.24,Direct debit,2,no
+20295,82.0,18,month-to-month,DSL,82.78,1493.81,Direct debit,5,yes
+20701,21.0,27,month-to-month,Fiber optic,109.77,2964.3,Bank transfer,3,yes
+20251,61.0,49,one-year,DSL,,2386.57,Direct debit,0,no
+20726,43.0,18,month-to-month,Fiber optic,106.54,1921.92,Credit card,5,yes
+20461,22.0,29,two-year,,55.54,1602.14,Direct debit,3,no
+20455,57.0,19,one-year,,26.77,523.58,Bank transfer,0,no
+20023,79.0,0,one-year,DSL,96.04,22.95,Direct debit,0,no
+20815,50.0,67,two-year,Fiber optic,,7298.21,Direct debit,7,no
+20862,,15,one-year,None,34.22,513.58,Direct debit,5,no
+20269,63.0,39,one-year,DSL,,4328.3,Bank transfer,1,no
+20201,36.0,2,two-year,None,,77.99,Direct debit,0,no
+20161,61.0,30,one-year,None,32.05,964.39,Direct debit,3,no
+20555,66.0,36,month-to-month,Fiber optic,75.32,2715.06,Credit card,2,yes
+20729,29.0,51,month-to-month,DSL,69.69,3544.35,Credit card,2,yes
+20401,75.0,11,one-year,Fiber optic,74.06,810.64,Direct debit,1,no
+20702,79.0,25,two-year,Fiber optic,119.76,3014.69,,0,no
+20476,36.0,72,two-year,DSL,52.6,3815.8,Direct debit,2,no
+20821,48.0,2,two-year,Fiber optic,47.43,101.91,Credit card,6,no
+20771,28.0,23,month-to-month,DSL,89.07,2072.03,Bank transfer,1,yes
+20105,,72,month-to-month,DSL,92.7,6703.31,Credit card,3,yes
+20565,70.0,27,one-year,None,27.0,741.3,Credit card,0,no
+20389,60.0,68,month-to-month,Fiber optic,104.72,7139.73,Direct debit,2,yes
+20001,32.0,7,two-year,None,36.36,256.38,Direct debit,2,no
+20916,46.0,72,two-year,Fiber optic,45.94,3329.57,Credit card,1,no
+20209,53.0,24,month-to-month,DSL,87.18,2104.15,Bank transfer,4,yes
+20561,22.0,13,month-to-month,Fiber optic,,1115.98,Direct debit,0,no
+20080,,50,two-year,Fiber optic,58.28,2906.57,Credit card,4,no
+20205,41.0,67,one-year,DSL,85.12,5730.93,,0,no
+20034,56.0,37,one-year,None,38.71,1441.81,Direct debit,3,no
+20775,52.0,67,month-to-month,Fiber optic,99.75,6697.52,,2,yes
+20508,66.0,69,one-year,Fiber optic,112.01,7723.47,Credit card,1,no
+20427,78.0,16,one-year,DSL,46.66,740.58,Credit card,2,no
+20454,30.0,53,two-year,Fiber optic,71.71,3826.59,Credit card,2,no
+20366,27.0,57,month-to-month,DSL,53.62,3061.66,Direct debit,1,yes
+20091,,38,month-to-month,None,25.46,994.04,Direct debit,3,yes
+20339,18.0,36,month-to-month,Fiber optic,99.4,3593.47,Credit card,1,no
+20897,66.0,5,two-year,Fiber optic,51.72,266.21,Direct debit,1,no
+20564,40.0,16,one-year,,66.75,1079.11,Bank transfer,1,no
+20345,33.0,16,month-to-month,Fiber optic,85.8,1369.71,,2,yes
+20776,54.0,49,month-to-month,Fiber optic,71.83,3543.65,Credit card,1,no
+20241,45.0,5,month-to-month,None,21.24,109.87,Credit card,2,yes
+20013,77.0,6,one-year,Fiber optic,55.32,,Bank transfer,7,no
+20315,71.0,41,month-to-month,Fiber optic,106.86,4402.72,Direct debit,2,yes
+20600,69.0,19,month-to-month,Fiber optic,95.23,1806.93,Direct debit,3,yes
+20387,50.0,18,month-to-month,None,22.18,389.27,Direct debit,2,yes
+20273,40.0,58,month-to-month,None,20.5,1190.98,Direct debit,1,yes
+20166,34.0,36,one-year,Fiber optic,64.47,2337.83,Credit card,1,no
+20840,28.0,66,one-year,DSL,78.76,5213.58,Credit card,2,no
+20405,53.0,71,two-year,DSL,81.02,5754.52,Bank transfer,4,no
+20646,43.0,46,one-year,Fiber optic,63.17,2935.56,Credit card,2,no
+20818,22.0,38,month-to-month,Fiber optic,112.18,4281.15,Credit card,1,yes
+20484,56.0,6,month-to-month,DSL,112.38,664.85,Direct debit,2,no
+20490,73.0,2,month-to-month,Fiber optic,69.63,157.81,Credit card,4,yes
+20504,37.0,54,month-to-month,Fiber optic,101.25,5488.0,Direct debit,0,yes
+20831,62.0,59,month-to-month,,,3482.55,Direct debit,2,yes
+20243,78.0,4,month-to-month,Fiber optic,95.55,372.47,Direct debit,1,no
+20566,54.0,65,one-year,Fiber optic,64.89,,Bank transfer,1,no
+20875,70.0,20,month-to-month,DSL,75.38,1535.51,Credit card,5,yes
+20562,20.0,1,two-year,Fiber optic,108.61,134.94,Credit card,2,no
+20686,25.0,32,month-to-month,Fiber optic,83.1,2659.47,Direct debit,1,yes
+20189,48.0,28,two-year,DSL,101.2,2846.56,Direct debit,5,no
+20782,35.0,18,month-to-month,DSL,98.47,1780.24,Credit card,1,yes
+20699,39.0,65,one-year,None,22.98,1519.46,Credit card,3,no
+20475,56.0,5,month-to-month,Fiber optic,106.62,538.18,Credit card,2,yes
+20681,42.0,70,month-to-month,DSL,88.9,6228.58,Direct debit,2,yes
+20510,32.0,21,two-year,Fiber optic,66.59,1425.77,Bank transfer,5,no
+20058,51.0,33,month-to-month,Fiber optic,104.1,3442.77,Credit card,2,yes
+20474,71.0,8,month-to-month,Fiber optic,84.92,692.06,Credit card,2,yes
+20560,23.0,59,month-to-month,Fiber optic,66.35,3933.69,Direct debit,1,no
+20856,46.0,30,month-to-month,Fiber optic,57.05,1713.95,Direct debit,4,yes
+20747,30.0,62,one-year,Fiber optic,66.77,,Direct debit,2,no
+20252,47.0,61,one-year,Fiber optic,109.85,6723.53,Bank transfer,0,no
+20021,77.0,59,month-to-month,Fiber optic,48.02,2855.45,Direct debit,3,no
+20313,59.0,30,one-year,,114.47,3450.42,Direct debit,0,no
+20459,,1,one-year,Fiber optic,104.18,99.75,Credit card,0,no
+20160,70.0,13,month-to-month,Fiber optic,48.45,,Credit card,4,yes
+20276,19.0,4,month-to-month,Fiber optic,78.54,340.09,Bank transfer,0,no
+20191,24.0,61,month-to-month,Fiber optic,53.1,3262.41,Credit card,3,yes
+20385,,58,month-to-month,DSL,67.44,3936.28,Direct debit,4,yes
+20805,32.0,6,one-year,Fiber optic,54.69,332.65,Bank transfer,2,no
+20413,79.0,49,month-to-month,Fiber optic,52.96,2586.17,Direct debit,4,yes
+20491,50.0,40,month-to-month,DSL,81.54,3284.33,Credit card,0,no
+20343,65.0,67,month-to-month,None,16.31,1100.76,Credit card,3,no
+20769,77.0,41,one-year,Fiber optic,106.77,4394.15,Direct debit,3,no
+20308,39.0,59,month-to-month,DSL,97.24,5763.4,Direct debit,2,no
+20661,19.0,69,month-to-month,Fiber optic,89.48,6199.67,Credit card,3,yes
+20130,79.0,61,two-year,None,37.83,2332.41,Bank transfer,3,no
+20663,31.0,72,two-year,None,26.44,1911.68,Credit card,2,no
+20871,57.0,22,two-year,DSL,103.45,2293.0,,5,yes
+20099,18.0,35,month-to-month,Fiber optic,116.96,4097.32,Direct debit,0,yes
+20372,41.0,38,month-to-month,DSL,68.55,2618.81,Credit card,3,yes
+20087,29.0,39,two-year,Fiber optic,110.34,4304.27,Direct debit,2,no
+20458,67.0,31,month-to-month,Fiber optic,100.49,,Credit card,2,yes
+20330,34.0,59,month-to-month,Fiber optic,80.44,4770.32,Direct debit,2,yes
+20214,71.0,14,month-to-month,DSL,109.72,1528.92,Bank transfer,2,yes
+20466,82.0,37,month-to-month,Fiber optic,97.83,3618.33,Credit card,1,no
+20121,62.0,43,month-to-month,Fiber optic,90.9,3927.53,Direct debit,1,yes
+20614,83.0,11,month-to-month,Fiber optic,60.45,,Credit card,1,no
+20020,,28,month-to-month,Fiber optic,,3175.26,Direct debit,0,yes
+20700,38.0,69,one-year,Fiber optic,96.68,6681.79,Credit card,1,no
+20071,32.0,44,month-to-month,DSL,52.31,,Direct debit,3,no
+20106,68.0,72,month-to-month,Fiber optic,75.13,5438.68,Credit card,2,yes
+20270,41.0,24,one-year,DSL,116.44,2797.19,Direct debit,3,no
+20860,40.0,29,month-to-month,Fiber optic,62.27,1817.49,Credit card,3,yes
+20435,69.0,10,two-year,Fiber optic,81.93,843.13,Bank transfer,0,no
+20102,44.0,72,two-year,DSL,,4280.96,Credit card,2,no
